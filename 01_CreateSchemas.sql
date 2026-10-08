@@ -1,0 +1,5 @@
+CREATE SCHEMA Shop;
+GO
+
+CREATE SCHEMA Archive;
+GO
